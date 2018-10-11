@@ -128,7 +128,7 @@ Each item of `questions` has:
 
 - `title` - The text content of the question.
 - `options` - Options of the question.
-- `hides_on` - Hide this question based on current selected options. The item of `hides_on` shouldfollow pattern : `"<questionZeroBasedIndex>:<optionZeroBasedIndex>"`. e.g. `"0:0"`.
+- `hides_on` - Hide this question based on current selected options. The item of `hides_on` shouldfollow pattern: `"<questionZeroBasedIndex>:<optionZeroBasedIndex>"`. e.g. `"0:0"`.
 
 ### `results`
 
